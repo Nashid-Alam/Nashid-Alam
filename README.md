@@ -1,9 +1,6 @@
 - 👋 Hi, my name is Nashid Alam
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on some really cool projects
+- 🌱 I’m currently seeking opportunites as a software engineer
 
-<!---
-nalam01/nalam01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+Software engineer with refined interpersonal skills and a strong appetite for mastering new tools and technologies. Backed by 4+ years of experience in project management, engineering, and business development.
